@@ -3,7 +3,7 @@
 Delete or unfollow **lots of Spotify playlists at once**, from a simple desktop app.
 
 Instead of removing playlists one by one in Spotify, you tick the ones you want gone and press one button.
-![Main Screen Before Logging in (env) ](capture.PNG)
+![Main Screen Before Logging in (env) ](Capture.PNG)
 **What you get:**
 
 - Your whole playlist library in one scrollable list (with a checkbox on each)
